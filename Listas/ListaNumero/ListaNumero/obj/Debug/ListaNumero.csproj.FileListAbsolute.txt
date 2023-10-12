@@ -1,0 +1,7 @@
+C:\Users\luzes\OneDrive\Escritorio\practica 1\Listas\ListaNumero\ListaNumero\obj\Debug\ListaNumero.csproj.AssemblyReference.cache
+C:\Users\luzes\OneDrive\Escritorio\practica 1\Listas\ListaNumero\ListaNumero\obj\Debug\ListaNumero.csproj.CoreCompileInputs.cache
+C:\Users\luzes\OneDrive\Escritorio\practica 1\Listas\ListaNumero\ListaNumero\bin\Debug\ListaNumero.exe.config
+C:\Users\luzes\OneDrive\Escritorio\practica 1\Listas\ListaNumero\ListaNumero\bin\Debug\ListaNumero.exe
+C:\Users\luzes\OneDrive\Escritorio\practica 1\Listas\ListaNumero\ListaNumero\bin\Debug\ListaNumero.pdb
+C:\Users\luzes\OneDrive\Escritorio\practica 1\Listas\ListaNumero\ListaNumero\obj\Debug\ListaNumero.exe
+C:\Users\luzes\OneDrive\Escritorio\practica 1\Listas\ListaNumero\ListaNumero\obj\Debug\ListaNumero.pdb

@@ -1,0 +1,7 @@
+C:\Users\luzes\OneDrive\Escritorio\practica 1\celular\Resolucion\Resolucion\obj\Debug\Resolucion.csproj.AssemblyReference.cache
+C:\Users\luzes\OneDrive\Escritorio\practica 1\celular\Resolucion\Resolucion\obj\Debug\Resolucion.csproj.CoreCompileInputs.cache
+C:\Users\luzes\OneDrive\Escritorio\practica 1\celular\Resolucion\Resolucion\bin\Debug\Resolucion.exe.config
+C:\Users\luzes\OneDrive\Escritorio\practica 1\celular\Resolucion\Resolucion\bin\Debug\Resolucion.exe
+C:\Users\luzes\OneDrive\Escritorio\practica 1\celular\Resolucion\Resolucion\bin\Debug\Resolucion.pdb
+C:\Users\luzes\OneDrive\Escritorio\practica 1\celular\Resolucion\Resolucion\obj\Debug\Resolucion.exe
+C:\Users\luzes\OneDrive\Escritorio\practica 1\celular\Resolucion\Resolucion\obj\Debug\Resolucion.pdb

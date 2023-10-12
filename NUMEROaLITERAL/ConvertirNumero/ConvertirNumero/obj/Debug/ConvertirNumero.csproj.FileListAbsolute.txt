@@ -1,0 +1,7 @@
+C:\Users\luzes\OneDrive\Escritorio\NUMEROaLITERAL\ConvertirNumero\ConvertirNumero\bin\Debug\ConvertirNumero.exe.config
+C:\Users\luzes\OneDrive\Escritorio\NUMEROaLITERAL\ConvertirNumero\ConvertirNumero\bin\Debug\ConvertirNumero.exe
+C:\Users\luzes\OneDrive\Escritorio\NUMEROaLITERAL\ConvertirNumero\ConvertirNumero\bin\Debug\ConvertirNumero.pdb
+C:\Users\luzes\OneDrive\Escritorio\NUMEROaLITERAL\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.csproj.AssemblyReference.cache
+C:\Users\luzes\OneDrive\Escritorio\NUMEROaLITERAL\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.csproj.CoreCompileInputs.cache
+C:\Users\luzes\OneDrive\Escritorio\NUMEROaLITERAL\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.exe
+C:\Users\luzes\OneDrive\Escritorio\NUMEROaLITERAL\ConvertirNumero\ConvertirNumero\obj\Debug\ConvertirNumero.pdb
